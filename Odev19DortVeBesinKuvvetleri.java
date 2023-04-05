@@ -6,7 +6,7 @@ public class Odev19DortVeBesinKuvvetleri {
         Scanner input=new Scanner(System.in);
         System.out.println("Sınır sayısını giriniz:");
         sinirsayisi=input.nextInt();
-        System.out.println("4'ün kuvvetleri");
+        System.out.println("4'ün kuvvetleri:");
         for (int i=1; i<=sinirsayisi ; i*=4){
             System.out.println("*" + i);
         }
