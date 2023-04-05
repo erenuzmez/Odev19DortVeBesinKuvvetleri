@@ -1,4 +1,4 @@
-package CDonguler;
+
 import java.util.Scanner;
 public class Odev19DortVeBesinKuvvetleri {
     public static void main(String[] args) {
